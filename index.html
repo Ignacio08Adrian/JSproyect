@@ -14,27 +14,13 @@
     <header>
   <!-- 
   en esta parte se encuentra el navbar
- -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark natbar">
-            <a class="navbar-brand" href="#">
-                <img src="./assets/image/Nintendo_Switch_Logo_(without_text).svg" width="30" height="30" alt="">
-              </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-          
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                  <a class="nav-link verde" href="#">La calculaSwitch <span class="sr-only">(current)</span></a>
-                </li>
-                <select id="ordenofertas" class="form-select form-select-sm linknav final" aria-label=".form-select-sm example">
+ --> <div class="expand">
+                <select id="ordenofertas" class="form-select form-select-sm linknav" aria-label=".form-select-sm example">
                   <option selected>ordenar ofertas de:</option>
                   <option value="1">menor a mayor</option>
                   <option value="2">mayor a menor</option>
                 </select>
-            </div>
-          </nav>     
+              </div>
     </header>
 
     <main>
@@ -102,12 +88,12 @@
 <!-- 
   aqui esta el modal de recomendaciones
  -->
- <div class="container"><h2 class="azul">Seccion de recomendaciones</h2></div>
+ <div class="container"><h2 class="azul">SECCION DE RECOMENDACIONES</h2></div>
   <div id="presentacionrecomendacion"></div>
 <!-- 
   aqui se encuentra la seccion de ofertas
  -->
- <div class="container"><h2 class="yellow">Seccion de ofertas</h2></div>
+ <div class="container"><h2 class="yellow">SECCION DE OFERTAS</h2></div>
     <div class="container">
   <button id="juegosenoferta" class="btn btn-primary">Ver ofertas</button>
   <button id="cerrarofertas" class="btn btn-primary espacioderecho">cerrar ofertas</button>

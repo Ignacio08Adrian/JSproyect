@@ -2,24 +2,17 @@ body {
   background-color: white;
 }
 
-.natbar {
-  background-image: url(https://th.bing.com/th/id/R.eaebd81008fcc55b297ffb173a8b59a2?rik=L2Ant2LAANpLNw&pid=ImgRaw&r=0);
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: blue;
-  font-size: 1rem;
-  margin-left: 1rem;
-}
-
 .linknav {
   text-decoration: none;
   border: solid 2px;
-  border-color: #0e2323;
+  border-color: blue;
   color: white;
-  background-color: black;
   border-radius: 5px;
   margin: 4px;
   margin-left: 10px;
+  position: fixed;
+  text-align: center;
+  background-color: black;
 }
 
 .verde {
@@ -80,16 +73,27 @@ body {
   border: solid 2px;
   border-color: gray;
   color: white;
-  background-color: black;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://as2.ftcdn.net/v2/jpg/03/08/62/45/1000_F_308624545_xX0aovP5qCOeRQGT7AwhKZr8HbHKlMBZ.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   border-radius: 5px;
   margin: 4px;
   margin-left: 10px;
 }
 
 .azul {
-  color: blue;
+  color: violet;
 }
 
 .yellow {
   color: yellow;
+}
+
+.expand {
+  margin-left: 7rem;
+  position: fixed;
+  z-index: 1000;
+  font-size: 1.4rem;
 }
