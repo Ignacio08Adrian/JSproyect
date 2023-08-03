@@ -1,0 +1,95 @@
+body {
+  background-color: white;
+}
+
+.natbar {
+  background-image: url(https://th.bing.com/th/id/R.eaebd81008fcc55b297ffb173a8b59a2?rik=L2Ant2LAANpLNw&pid=ImgRaw&r=0);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: blue;
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+.linknav {
+  text-decoration: none;
+  border: solid 2px;
+  border-color: #0e2323;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  margin: 4px;
+  margin-left: 10px;
+}
+
+.verde {
+  border: solid 2px;
+  background-color: green;
+  border-color: blue;
+  border-radius: 5px;
+}
+
+.margin {
+  margin: 1rem;
+}
+
+.radio {
+  border-radius: 5px;
+  border-color: gray;
+}
+
+.bonito {
+  font-size: 1rem;
+  color: black;
+  margin-left: 5rem;
+}
+
+.espacio {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+
+.imagenchquita {
+  width: 10rem;
+  height: 12rem;
+}
+
+.espacioderecho {
+  margin-left: 2rem;
+}
+
+.final {
+  right: 0 !important;
+  position: absolute !important;
+}
+
+.Personalizar {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/image/V4hu3pH8bzExbi7djAh-mvFDyaFoQaqfHU4ar-2Gb9s.webp");
+  min-height: 100vh;
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blue {
+  text-decoration: none;
+  border: solid 2px;
+  border-color: gray;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  margin: 4px;
+  margin-left: 10px;
+}
+
+.azul {
+  color: blue;
+}
+
+.yellow {
+  color: yellow;
+}
