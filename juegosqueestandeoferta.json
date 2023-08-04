@@ -1,51 +1,50 @@
 [
-    {
-        "id":1,
-        "nombre":"Just Dance® 2023 Edition",
-        "oldprice":"$6.999",
-        "newprice":"3.499,50",
-        "impuesto":5354.23,
-        "imagen":"./assets/image/1664575378-just-dance-2023-nintendo-switch-0.jpg"
-    },{
-        "id":2,
-        "nombre":"SWORD ART ONLINE Alicization Lycoris",
-        "oldprice":"3990",
-        "newprice":"2.799,30",
-        "impuesto":4282.93,
-        "imagen":"./assets/image/81_5D_cgjzL._AC_SL1500_1024x1024.webp"
-
-    },{
-        "id":3,
-        "nombre":"Monster Hunter Stories 2: Wings of Ruin",
-        "oldprice":"5454",
-        "newprice":"1.817,81",
-        "impuesto":3181.15,
-        "imagen": "./assets/image/D_NQ_NP_2X_663917-MLA48697191851_122021-V.webp"
-
-    },{
-        "id":4,
-        "nombre":"Immortals Fenyx Rising",
-        "oldprice":"$4990",
-        "newprice":"999,79",
-        "impuesto":1749.64,
-        "imagen":"./assets/image/D_NQ_NP_975293-MLA44350953793_122020-O.jpg"
-
-    },{
-        "id":5,
-        "nombre":"Mega Man 11",
-        "oldprice":"$2.990",
-        "newprice":"$999,56",
-        "impuesto":1749.23,
-        "imagen":"./assets/image/Mega-Man-11.jpg"
-
-    },{
-        "id":6,
-        "nombre":"MARIO + RABBIDS SPARKS OF HOPE",
-        "oldprice":"$6.999",
-        "newprice":"$5.249,25",
-        "impuesto":8031.35,
-        "imagen":"./assets/image/D_NQ_NP_650347-MLA51804564539_102022-O.jpg"
-
-    }
-
+  {
+    "id": 1,
+    "nombre": "Just Dance® 2023 Edition",
+    "oldprice": "$6.999",
+    "newprice": "$3.499,50",
+    "impuesto": 5354.23,
+    "imagen": "./assets/image/1664575378-just-dance-2023-nintendo-switch-0.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "SWORD ART ONLINE Alicization Lycoris",
+    "oldprice": "$3990",
+    "newprice": "$2.799,30",
+    "impuesto": 4282.93,
+    "imagen": "./assets/image/SAOAL-DLC2_Blooming of Matricaria.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Monster Hunter Stories 2: Wings of Ruin",
+    "oldprice": "$5454",
+    "newprice": "$1.817,81",
+    "impuesto": 3181.15,
+    "imagen": "./assets/image/monster-hunter-stories-2-wings-of-ruin-20213269371281_7.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Immortals Fenyx Rising",
+    "oldprice": "$4990",
+    "newprice": "$999,79",
+    "impuesto": 1749.64,
+    "imagen": "./assets/image/whatsapp-image-2022-11-05-at-17-01-231-2da255a58c089fa54516701904383959-1024-1024.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "Mega Man 11",
+    "oldprice": "$2.990",
+    "newprice": "$999,56",
+    "impuesto": 1749.23,
+    "imagen": "./assets/image/mega-man-11-2018102103322_7.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "MARIO + RABBIDS SPARKS OF HOPE",
+    "oldprice": "$6.999",
+    "newprice": "$5.249,25",
+    "impuesto": 8031.35,
+    "imagen": "./assets/image/mario-and-rabbids-sparks-of-hope-button-fin-1623829530748.jpg"
+  }
 ]
