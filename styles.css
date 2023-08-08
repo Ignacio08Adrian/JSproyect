@@ -92,10 +92,14 @@ body {
 
 .azul {
   color: violet;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, 1px 1px 0 black,
+    -1px 1px 0 black;
 }
 
 .yellow {
   color: gold;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, 1px 1px 0 black,
+    -1px 1px 0 black;
 }
 
 .expand {
