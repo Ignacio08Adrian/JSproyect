@@ -1,5 +1,12 @@
 body {
-  background-color: white;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/image/ilustracion-de-primavera-nubes-cielo-anime_3840x2400_xtrafondos.com.jpg");
+  min-height: 100vh;
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .linknav {
@@ -88,7 +95,7 @@ body {
 }
 
 .yellow {
-  color: yellow;
+  color: gold;
 }
 
 .expand {
@@ -101,4 +108,9 @@ body {
 .imagenigual {
   width: 12.9rem;
   height: 12.9rem;
+}
+
+.more {
+  width: 10rem;
+  height: 3rem;
 }
